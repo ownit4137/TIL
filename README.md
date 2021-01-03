@@ -7,4 +7,4 @@
 
 ### 밑바닥부터 시작하는 딥러닝
 
-- [1권]('./DL from Scratch')
+- [1권]("https://github.com/ownit4137/TIL/tree/main/DL%20from%20Scratch")
