@@ -1,6 +1,6 @@
 # Today I Learned 📚
 
-[![Blog](https://img.shields.io/badge/Blog-ownit4137.github.io-orange.svg)](https://ownit4137.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-ownit4137.github.io-orange.svg?style=for-the-badge)](https://ownit4137.github.io/)
 
 
 ## Deep Learning
