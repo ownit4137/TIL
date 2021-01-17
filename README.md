@@ -2,6 +2,8 @@
 
 [![Blog](https://img.shields.io/badge/Blog-ownit4137.github.io-orange.svg?style=for-the-badge)](https://ownit4137.github.io/)
 
+## Kaggle Notebook
+
 
 ## Deep Learning
 
