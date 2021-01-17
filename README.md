@@ -4,6 +4,7 @@
 
 ## Kaggle Notebook
 
+- [210117 Activity Classifying](https://www.kaggle.com/ownit4137/activity-recognition)
 
 ## Deep Learning
 
