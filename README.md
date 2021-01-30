@@ -10,7 +10,7 @@
 
 ### 딥러닝 컴퓨터 비전 완벽 가이드
 
-- [Object Detection](https://github.com/ownit4137/TIL/tree/main/DLCV/OD)
+- [210130 Object Detection](https://github.com/ownit4137/TIL/tree/main/DLCV/OD)
 
 ### 밑바닥부터 시작하는 딥러닝
 
