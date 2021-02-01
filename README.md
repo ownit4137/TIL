@@ -5,7 +5,8 @@
 ## Kaggle Notebook
 
 - [210117 Activity Classification](https://www.kaggle.com/ownit4137/activity-recognition)
-- [210131 Plant Disease Classification using EfficientNet-b0](https://www.kaggle.com/ownit4137/plant-disease-classification-using-efficientnet)
+- [210131 Plant Disease Classification using EfficientNet](https://www.kaggle.com/ownit4137/plant-disease-classification-using-efficientnet)
+- [210201 Implementing LeNet-5 and recognizing digits](https://www.kaggle.com/ownit4137/implementing-lenet-5-and-recognizing-digits)
 
 ## Deep Learning
 
