@@ -10,7 +10,7 @@
 
 ## Custom Dataset 📊
 
-- [License plate number recognition](https://github.com/ownit4137/TIL/blob/main/CustomDataset/210204_CarPlateOcr.ipynb)
+- [210204 License plate number recognition](https://github.com/ownit4137/TIL/blob/main/CustomDataset/210204_CarPlateOcr.ipynb)
 
 ## Papers 📃
 
