@@ -2,13 +2,19 @@
 
 [![Blog](https://img.shields.io/badge/Blog-ownit4137.github.io-orange.svg?style=for-the-badge)](https://ownit4137.github.io/)
 
-## Kaggle Notebook
+## Kaggle Notebook 📒
 
 - [210117 Activity Classification](https://www.kaggle.com/ownit4137/activity-recognition)
 - [210131 Plant Disease Classification using EfficientNet](https://www.kaggle.com/ownit4137/plant-disease-classification-using-efficientnet)
 - [210201 Implementing LeNet-5 and recognizing digits](https://www.kaggle.com/ownit4137/implementing-lenet-5-and-recognizing-digits)
 
-## Deep Learning
+## Custom Dataset 📊
+
+- [License plate number recognition](https://github.com/ownit4137/TIL/blob/main/CustomDataset/210204_CarPlateOcr.ipynb)
+
+## Papers 📃
+
+## Deep Learning 🧠
 
 ### 딥러닝 컴퓨터 비전 완벽 가이드
 
