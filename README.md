@@ -26,6 +26,6 @@
 - [210104 1권](https://github.com/ownit4137/TIL/tree/main/DL%20from%20Scratch/1)
 - [210125 2권](https://github.com/ownit4137/TIL/tree/main/DL%20from%20Scratch/2)
 
-### Computer Vision Algorithms and Applications
+### Computer Vision Seminar(2021.2~)
 
-- [2102~ Summaries](https://github.com/ownit4137/TIL/tree/main/CVAA)
+- [Materials](https://github.com/ownit4137/TIL/tree/main/CVSeminar_2102)
