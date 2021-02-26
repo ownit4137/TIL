@@ -21,11 +21,19 @@
 - [210130 Object Detection](https://github.com/ownit4137/TIL/tree/main/DLCV/OD)
 - [210224 Region based CNNs](https://github.com/ownit4137/TIL/tree/main/DLCV/RCNN)
 
+>  권철민, 딥러닝 컴퓨터 비전 완벽 가이드
+
 ### 밑바닥부터 시작하는 딥러닝
 
 - [210104 1권](https://github.com/ownit4137/TIL/tree/main/DL%20from%20Scratch/1)
 - [210125 2권](https://github.com/ownit4137/TIL/tree/main/DL%20from%20Scratch/2)
 
+>  사이토 고키, 밑바닥부터 시작하는 딥러닝1/2/3
+
 ### Computer Vision Seminar(2021.2~)
 
 - [Materials](https://github.com/ownit4137/TIL/tree/main/CVSeminar_2102)
+
+>  Richard Szeliski, Computer Vision: Algorithms and Applications, 2nd ed.
+
+>  오일석, COMPUTER VISION
