@@ -7,6 +7,7 @@
 - [210117 Activity Classification](https://www.kaggle.com/ownit4137/activity-recognition)
 - [210131 Plant Disease Classification using EfficientNet](https://www.kaggle.com/ownit4137/plant-disease-classification-using-efficientnet)
 - [210201 Implementing LeNet-5 and recognizing digits](https://www.kaggle.com/ownit4137/implementing-lenet-5-and-recognizing-digits)
+- [210319 NFNets-F0: Fruit Classification](https://www.kaggle.com/ownit4137/nfnets-f0-fruit-classification-98-9)
 
 ## Custom Dataset 📊
 
